@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Mauricio/AndroidstudioProjects/PruebaGrability/app/src/main/res/values-sw600dp/dimens.xml -->
+    <eat-comment/>
+    <bool name="gridview">true</bool>
+    <bool name="portrait_only">true</bool>
+    <!-- From: file:/C:/Users/Mauricio/AndroidstudioProjects/PruebaGrability/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-sw600dp/values.xml -->
+    <eat-comment/>
+    <dimen name="abc_action_bar_default_height">56dip</dimen>
+    <dimen name="abc_action_bar_icon_vertical_padding">4dip</dimen>
+    <dimen name="abc_action_bar_subtitle_bottom_margin">9dip</dimen>
+    <dimen name="abc_action_bar_subtitle_text_size">14dp</dimen>
+    <dimen name="abc_action_bar_subtitle_top_margin">-3dp</dimen>
+    <dimen name="abc_action_bar_title_text_size">18dp</dimen>
+    <dimen name="abc_config_prefDialogWidth">580dp</dimen>
+    <!-- From: file:/C:/Users/Mauricio/AndroidstudioProjects/PruebaGrability/app/src/main/res/values-sw600dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <item format="integer" name="match_parent" type="dimen">-1</item>
+    <dimen name="navigation_drawer_width">@dimen/wrap_content</dimen>
+    <dimen name="text_size">18sp</dimen>
+    <item format="integer" name="wrap_content" type="dimen">-2</item>
+    <!-- From: file:/C:/Users/Mauricio/AndroidstudioProjects/PruebaGrability/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-sw600dp/values.xml -->
+    <eat-comment/>
+    <integer name="abc_max_action_buttons">5</integer>
+    <!-- From: file:/C:/Users/Mauricio/AndroidstudioProjects/PruebaGrability/app/src/main/res/values-sw600dp/dimens.xml -->
+    <eat-comment/>
+    <string name="tamanio_imagen">75</string>
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mauricio\AndroidstudioProjects\PruebaGrability\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="C:\Users\Mauricio\AndroidstudioProjects\PruebaGrability\app\build\intermediates\pre-dexed\debug\classes-83e4402f6bfaf42828a84365ecb4a878797d672a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\AndroidstudioProjects\PruebaGrability\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="C:\Users\Mauricio\AndroidstudioProjects\PruebaGrability\app\build\intermediates\pre-dexed\debug\classes-0e80a5c255b06953849eae830c3ec6e335110c45.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\AndroidstudioProjects\PruebaGrability\app\libs\spring-android-rest-template-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e132d929bd181941f79b0d63edafb8a86ae6fd33">
+        <dex dex="C:\Users\Mauricio\AndroidstudioProjects\PruebaGrability\app\build\intermediates\pre-dexed\debug\spring-android-rest-template-1.0.1.RELEASE-fddd879592df6537d6afc09093afcec4e659bcb6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha1\support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="C:\Users\Mauricio\AndroidstudioProjects\PruebaGrability\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha1-23fd7ef83b465b22788060ead085028fa6b295ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\AndroidstudioProjects\PruebaGrability\app\libs\jackson-core-asl-1.9.11.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e32303ef8bd18a5c9272780d49b81c95e05ddf43">
+        <dex dex="C:\Users\Mauricio\AndroidstudioProjects\PruebaGrability\app\build\intermediates\pre-dexed\debug\jackson-core-asl-1.9.11-63bd1ff853f66b557fdcfe03d385b200bef38cfd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\AndroidstudioProjects\PruebaGrability\app\libs\spring-android-core-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e68f0e8e4b636ee30c4de58953be38d9b72a5e3b">
+        <dex dex="C:\Users\Mauricio\AndroidstudioProjects\PruebaGrability\app\build\intermediates\pre-dexed\debug\spring-android-core-1.0.1.RELEASE-bb11a89da716d10b743042d9b3b9a7f346b75dc0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\AndroidstudioProjects\PruebaGrability\app\libs\jackson-mapper-asl-1.9.11.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="45d70862fa016993193075a1e8e32a01dcf438e8">
+        <dex dex="C:\Users\Mauricio\AndroidstudioProjects\PruebaGrability\app\build\intermediates\pre-dexed\debug\jackson-mapper-asl-1.9.11-85d072d91d2276a79d8271207ea865f2cbd1987b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\AndroidstudioProjects\PruebaGrability\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="C:\Users\Mauricio\AndroidstudioProjects\PruebaGrability\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha1-f9f6e731a7ac43ca9a8d06ea13049bf7631f6b42.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Users\Mauricio\AndroidstudioProjects\PruebaGrability\app\build\intermediates\pre-dexed\debug\gson-2.3-99f17b54bc587b9cb567ec92d772db08033582fa.jar" />
+    </item>
+
+</items>

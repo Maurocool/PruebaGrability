@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="dark_red">#B42A24</color>
+    <color name="dark_gray">#808080</color>
+    <color name="gray">#F4F4F4</color>
+    <color name="azul_general">#0081ba</color>
+    <color name="rosa">#ed668e</color>
+    <color name="rojo">#FF0000</color>
+    <color name="cafe">#e8d85e</color>
+    <color name="gris">#676767</color>
+    <color name="negro">#000000</color>
+    <color name="separator">#e96891</color>
+    <color name="blanco">#FFFFFF</color>
+    <color name="naranja">#FF7F27</color>
+
+</resources>

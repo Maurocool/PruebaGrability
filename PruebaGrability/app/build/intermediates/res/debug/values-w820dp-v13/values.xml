@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Mauricio/AndroidstudioProjects/PruebaGrability/app/src/main/res/values-w820dp/dimens.xml -->
+    <eat-comment/>
+    <bool name="gridview">true</bool>
+    <bool name="portrait_only">true</bool>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <item format="integer" name="match_parent" type="dimen">-1</item>
+    <dimen name="navigation_drawer_width">@dimen/wrap_content</dimen>
+    <dimen name="text_size">22sp</dimen>
+    <item format="integer" name="wrap_content" type="dimen">-2</item>
+    <string name="tamanio_imagen">100</string>
+</resources>

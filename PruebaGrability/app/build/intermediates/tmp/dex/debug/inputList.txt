@@ -1,0 +1,6 @@
+C:\Users\Mauricio\AndroidstudioProjects\PruebaGrability\app\build\intermediates\classes\debug
+C:\Users\Mauricio\AndroidstudioProjects\PruebaGrability\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha1-23fd7ef83b465b22788060ead085028fa6b295ed.jar
+C:\Users\Mauricio\AndroidstudioProjects\PruebaGrability\app\build\intermediates\pre-dexed\debug\gson-2.3-99f17b54bc587b9cb567ec92d772db08033582fa.jar
+C:\Users\Mauricio\AndroidstudioProjects\PruebaGrability\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha1-f9f6e731a7ac43ca9a8d06ea13049bf7631f6b42.jar
+C:\Users\Mauricio\AndroidstudioProjects\PruebaGrability\app\build\intermediates\pre-dexed\debug\classes-83e4402f6bfaf42828a84365ecb4a878797d672a.jar
+C:\Users\Mauricio\AndroidstudioProjects\PruebaGrability\app\build\intermediates\pre-dexed\debug\classes-0e80a5c255b06953849eae830c3ec6e335110c45.jar

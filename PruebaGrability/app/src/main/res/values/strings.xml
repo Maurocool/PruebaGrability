@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PruebaGrability</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sinc">Sincronizar</string>
+    <string name="categorias">Categorias</string>
+    <string name="aplicaciones">Aplicaciones</string>
+    <string name="msj_cargado_informacion">Cargando informacion.\nTardara solo un momento</string>
+    <string name="msj_error_conexion">No Hay conexion, por favor verifique e intente nuevamente</string>
+    <string name="msj_error_carga_info">No se pudo cargar la informacion</string>
+    <string name="msj_error_falta_info">Debes sincronizar almenos una vez para ver el contenido</string>
+    <string name="msj_carga_info_exitoso">Se actualizo la informacion correctamente</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="msj_cerrar_app">Desea cerrar la aplicacion?</string>
+    <string name="info_app">Informacion Aplicacion</string>
+    <string name="descripcion">Descripcion:</string>
+    <string name="categoria">Categoria:</string>
+    <string name="liberado">Liberado:</string>
+    <string name="derechos">Derechos:</string>
+    <string name="titulo_sync">Respuesta:</string>
+    <string name="titulo_falta_inf">Atencion!</string>
+    <string name="titulo_prueba">Prueba: Raul Mauricio Ramirez</string>
+
+</resources>

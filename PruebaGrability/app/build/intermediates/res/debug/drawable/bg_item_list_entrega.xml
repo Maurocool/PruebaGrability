@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true"><shape android:shape="rectangle">
+            <solid android:color="@android:color/white" />
+
+            <stroke android:width="2dp" android:color="@color/separator" />
+        </shape></item>
+    <item><shape android:shape="rectangle">
+            <solid android:color="@color/azul_general" />
+
+            <stroke android:width="2dp" android:color="@color/separator" />
+        </shape></item>
+
+</selector><!-- From: file:/C:/Users/Mauricio/AndroidstudioProjects/PruebaGrability/app/src/main/res/drawable/bg_item_list_entrega.xml -->

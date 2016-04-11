@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="text_size">14sp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="navigation_drawer_width">240dp</dimen>
+
+    <bool name="portrait_only">false</bool>
+    <bool name="gridview">false</bool>
+
+    <string name="tamanio_imagen">53</string>
+
+</resources>

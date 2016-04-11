@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragmentInformacionApp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gris"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linerGeneral"
+        style="@style/layautporcentaje"
+        android:background="@drawable/fondo" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal"
+            android:weightSum="100" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/bg_gris"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@+id/linerInfoApp"
+                    style="@style/layautporcentaje"
+                    android:background="@drawable/fondo" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_marginBottom="15dp"
+                        android:layout_marginTop="15dp"
+                        android:orientation="horizontal"
+                        android:weightSum="100" >
+
+                        <LinearLayout
+                            android:layout_width="0px"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="30"
+                            android:gravity="center_horizontal"
+                            android:orientation="vertical"
+                            android:padding="10dp" >
+
+                            <ImageView
+                                android:id="@+id/imageViewInfoApp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/ic_launcher" />
+
+                            <TextView
+                                android:id="@+id/txtTitulo"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="20sp"
+                                android:textColor="@color/negro"
+                                android:textSize="@dimen/text_size"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/txtPrice"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="5sp"
+                                android:textColor="@color/negro"
+                                android:textSize="@dimen/text_size"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="0px"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="70"
+                            android:orientation="vertical" >
+
+                            <ScrollView
+                                android:id="@+id/ScrollViewInfoApp"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content" >
+
+                                <TableLayout
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content" >
+
+                                    <TableRow
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="wrap_content"
+                                        android:weightSum="100" >
+
+                                        <TextView
+                                            android:layout_width="0px"
+                                            android:layout_height="wrap_content"
+                                            android:layout_weight="40"
+                                            android:text="@string/descripcion"
+                                            android:textColor="@color/negro"
+                                            android:textSize="@dimen/text_size"
+                                            android:textStyle="bold" />
+
+                                        <TextView
+                                            android:id="@+id/txtDescripcion"
+                                            android:layout_width="0px"
+                                            android:layout_height="wrap_content"
+                                            android:layout_weight="60"
+                                            android:textColor="@color/negro"
+                                            android:textSize="@dimen/text_size"
+                                            android:textStyle="bold" />
+                                    </TableRow>
+
+                                    <TableRow
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginTop="5dp"
+                                        android:weightSum="100" >
+
+                                        <TextView
+                                            android:layout_width="0px"
+                                            android:layout_height="wrap_content"
+                                            android:layout_weight="40"
+                                            android:text="@string/categoria"
+                                            android:textColor="@color/negro"
+                                            android:textSize="@dimen/text_size"
+                                            android:textStyle="bold" />
+
+                                        <TextView
+                                            android:id="@+id/txtCategoria"
+                                            android:layout_width="0px"
+                                            android:layout_height="wrap_content"
+                                            android:layout_weight="60"
+                                            android:textColor="@color/negro"
+                                            android:textSize="@dimen/text_size"
+                                            android:textStyle="bold" />
+                                    </TableRow>
+
+                                    <TableRow
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginTop="5dp"
+                                        android:weightSum="100" >
+
+                                        <TextView
+                                            android:layout_width="0px"
+                                            android:layout_height="wrap_content"
+                                            android:layout_weight="40"
+                                            android:text="@string/liberado"
+                                            android:textColor="@color/negro"
+                                            android:textSize="@dimen/text_size"
+                                            android:textStyle="bold" />
+
+                                        <TextView
+                                            android:id="@+id/txtLiberado"
+                                            android:layout_width="0px"
+                                            android:layout_height="wrap_content"
+                                            android:layout_weight="60"
+                                            android:textColor="@color/negro"
+                                            android:textSize="@dimen/text_size"
+                                            android:textStyle="bold" />
+                                    </TableRow>
+
+                                    <TableRow
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginTop="5dp"
+                                        android:weightSum="100" >
+
+                                        <TextView
+                                            android:layout_width="0px"
+                                            android:layout_height="wrap_content"
+                                            android:layout_weight="40"
+                                            android:text="@string/derechos"
+                                            android:textColor="@color/negro"
+                                            android:textSize="@dimen/text_size"
+                                            android:textStyle="bold" />
+
+                                        <TextView
+                                            android:id="@+id/txtDerechos"
+                                            android:layout_width="0px"
+                                            android:layout_height="wrap_content"
+                                            android:layout_weight="60"
+                                            android:textColor="@color/negro"
+                                            android:textSize="@dimen/text_size"
+                                            android:textStyle="bold" />
+                                    </TableRow>
+                                </TableLayout>
+                            </ScrollView>
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/C:/Users/Mauricio/AndroidstudioProjects/PruebaGrability/app/src/main/res/layout/fragment_informacion_app.xml -->

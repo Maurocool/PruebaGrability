@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragmentCatalogo"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gris"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linerInfoApp"
+        style="@style/layautporcentaje"
+        android:background="@drawable/fondo" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal"
+            android:weightSum="100" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/bg_gris"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    style="@style/layautporcentaje"
+                    android:background="@drawable/fondo" >
+
+                    <GridView
+                        android:id="@+id/gvImagenes"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:gravity="center"
+                        android:horizontalSpacing="10dip"
+                        android:numColumns="2"
+                        android:stretchMode="spacingWidthUniform"
+                        android:verticalSpacing="10dip" >
+                    </GridView>
+
+                    <ImageView
+                        android:id="@+id/ivImagen"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center|center_vertical"
+                        android:onClick="onClickRegresar"
+                        android:visibility="gone" />
+
+                    <ScrollView
+                        android:id="@+id/sclTexto"
+                        android:layout_width="match_parent"
+                        android:layout_height="fill_parent" >
+
+                        <EditText
+                            android:id="@+id/etTexto"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:ems="10"
+                            android:enabled="false"
+                            android:inputType="textMultiLine"
+                            android:scrollHorizontally="true"
+                            android:visibility="gone" >
+
+                            <requestFocus />
+                        </EditText>
+                    </ScrollView>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/C:/Users/Mauricio/AndroidstudioProjects/PruebaGrability/app/src/main/res/layout/fragment_catalogo.xml -->
